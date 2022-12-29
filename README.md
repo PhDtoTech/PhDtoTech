@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Paulina Ramírez</h1>
+<h1 align="center">Hi 👋, I'm a self-taught developer.</h1>
 
-<h3 align="center">I'm a self-taught developer.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paura-mirez&label=Profile%20views&color=0e75b6&style=flat" alt="paura-mirez" /> </p>
 
 - 🌱 I’m currently learning full-stack web development from **[The Odin Project](https://www.theodinproject.com)'s Curriculum**
 
-- 📫 You can reach me at **paulina01@ucsb.edu**
+- 📫 You can reach me at **paura@icloud.com**
 
 - 📄 My background:
 
